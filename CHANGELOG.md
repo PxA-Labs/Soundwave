@@ -126,6 +126,7 @@ All notable changes to this project will be documented in this file.
 - Update CHANGELOG.md [skip ci]
 - Update CHANGELOG.md [skip ci]
 - Update CHANGELOG.md [skip ci]
+- Update CHANGELOG.md [skip ci]
 
 ### Features
 
@@ -150,6 +151,7 @@ All notable changes to this project will be documented in this file.
 - **cli:** Implement standalone developer CLI tool soundwave-cli (#70)
 - **ui:** Implement Dashboard, Signal Monitor, and Settings screens (#30)
 - **ui:** Dynamic config settings propagation and OpenSSF secure bounds checks
+- **ui:** Implement throughput meter, SNR display & connection status widget (#90)
 
 ### Maintenance
 
